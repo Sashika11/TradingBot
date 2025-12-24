@@ -18,7 +18,8 @@ jobs:
 
       - name: Install Libraries
         run: |
-          pip install google-genai yfinance feedparser requests pandas
+          pip install --upgrade pip
+          pip install google-genai groq yfinance feedparser requests pandas pandas_ta numpy
 
       - name: Run Bot
         env:
