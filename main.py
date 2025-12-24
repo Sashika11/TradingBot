@@ -1,8 +1,6 @@
-# --- 1. INSTALL LIBRARIES ---
-!pip install -q groq yfinance feedparser requests pandas_ta
 
 import os
-from groq import Groq
+from groq import Groq   # (Or google.genai depending on which code you used)
 import yfinance as yf
 import pandas as pd
 import pandas_ta as ta
