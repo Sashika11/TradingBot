@@ -14,7 +14,7 @@ import pytz
 # ==========================================
 # 🛑 PASTE YOUR KEYS HERE
 # ==========================================
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 TELEGRAM_TOKEN = "8288724595:AAESol9-uMlsoRrYizltjFO7bzXDKhnPa0c"
 TELEGRAM_CHAT_ID = "335147823"
 
